@@ -73,19 +73,31 @@ function Header() {
             href="/about"
             className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
           >
-            About
+            Paket Fun Offroad 1
+          </a>
+          <a
+            href="/about"
+            className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+          >
+            Paket Fun Offroad 2
+          </a>
+          <a
+            href="/about"
+            className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+          >
+            Paket Fun Offroad 3
           </a>
           <a
             href="/services"
             className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
           >
-            Services
+            Tentang Kami
           </a>
           <a
             href="/contact"
             className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
           >
-            Contact
+            Kontak
           </a>
         </div>
       </div>
