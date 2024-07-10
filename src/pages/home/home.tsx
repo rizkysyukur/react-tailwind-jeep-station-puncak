@@ -21,6 +21,51 @@ function Home() {
           bersama keluarga dan teman-teman.
         </p>
       </div>
+      <div className="w-full p-5 -translate-y-20">
+        <div className="bg-[#F5B754] font-light rounded-xl mb-5 relative h-48">
+          <div
+            className="text-[#1B1B1B] absolute bottom-0 right-0 translate-x-3 translate-y-24"
+            style={{ fontSize: "14em", fontWeight: "bolder" }}
+          >
+            1
+          </div>
+          <h3 className="ps-5 pt-10 font-bold text-xl">Aman dan Nyaman</h3>
+          <p className="pe-20 pt-2 ps-5">
+            Nikmati adrenalin offroad yang aman dan nyaman dengan driver
+            profesional.
+          </p>
+        </div>
+        <div className="bg-[#F5B754] font-light rounded-xl mb-5 relative h-48">
+          <div
+            className="text-[#1B1B1B] absolute bottom-0 right-0 translate-x-3 translate-y-24"
+            style={{ fontSize: "14em", fontWeight: "bolder" }}
+          >
+            2
+          </div>
+          <h3 className="ps-5 pt-10 font-bold text-xl">
+            Pemandangan Luar Biasa
+          </h3>
+          <p className="pe-20 pt-2 ps-5">
+            Lihat pemandangan spektakuler Puncak Bogor dengan semua perhatian
+            pada keindahan alam.
+          </p>
+        </div>
+        <div className="bg-[#F5B754] font-light rounded-xl mb-5 relative h-48">
+          <div
+            className="text-[#1B1B1B] absolute bottom-0 right-0 translate-x-3 translate-y-24"
+            style={{ fontSize: "14em", fontWeight: "bolder" }}
+          >
+            3
+          </div>
+          <h3 className="ps-5 pt-10 font-bold text-xl">
+            Petualangan Tanpa Batas
+          </h3>
+          <p className="pe-20 pt-2 ps-5">
+            Temukan petualangan seru dengan berbagai rintangan dan medan yang
+            menantang.
+          </p>
+        </div>
+      </div>
     </>
   );
 }
