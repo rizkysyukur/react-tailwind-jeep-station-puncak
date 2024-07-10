@@ -21,7 +21,7 @@ function Home() {
           bersama keluarga dan teman-teman.
         </p>
       </div>
-      <div className="w-full p-5 -translate-y-20">
+      <div className="w-full p-5 -translate-y-20 mb-0">
         <div className="bg-[#F5B754] font-light rounded-xl mb-5 relative h-48">
           <div
             className="text-[#1B1B1B] absolute bottom-0 right-0 translate-x-3 translate-y-24"
@@ -65,6 +65,17 @@ function Home() {
             menantang.
           </p>
         </div>
+      </div>
+      <div className="w-full ps-5 pe-5 text-white">
+        <h1 className="text-2xl font-bold">Paket Petualangan Offroad</h1>
+        <h1 className="text-[#F5B754] text-3xl font-bold mb-4">
+          Jeep Station Puncak
+        </h1>
+        <p className="text-[#999999]">
+          Jelajahi serunya petualangan offroad dengan paket unggulan yang
+          menawarkan pengalaman tak terlupakan di medan offroad yang menantang,
+          eksklusif dari JSP Jeep Station Puncak!
+        </p>
       </div>
     </>
   );
