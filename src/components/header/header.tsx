@@ -4,7 +4,7 @@ import { useState } from "react";
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <nav className="bg-[#1B1B1B]">
+    <nav className="bg-[#1B1B1B] fixed top-0 w-full z-10">
       <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         <div className="relative flex items-center justify-between h-20">
           <div className="flex-shrink-0 ps-3">

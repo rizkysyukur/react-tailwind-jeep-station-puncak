@@ -1,11 +1,13 @@
 import "./App.css";
 import Header from "./components/header/header";
+import Home from "./pages/home/home";
 
 function App() {
   return (
-    <>
+    <div className="bg-[#1B1B1B] h-screen w-screen outfit-font py-20">
       <Header />
-    </>
+      <Home />
+    </div>
   );
 }
 
