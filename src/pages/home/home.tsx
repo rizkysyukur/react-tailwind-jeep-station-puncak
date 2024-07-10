@@ -12,7 +12,9 @@ function Home() {
         <p className="relative text-[#F5B754] text-sm mt-20 tracking-widest font-light">
           * Fun Offroad
         </p>
-        <p className="relative text-white text-3xl">Jeep Station Puncak</p>
+        <p className="relative text-white text-3xl">
+          <span className="text-[#F5B754] text-4xl">Jeep</span> Station Puncak
+        </p>
         <p className="relative text-white text-sm mt-2 font-light">
           Rasakan sensasi petualangan seru dengan fun offroad di Jeep Station
           Puncak, Bogor! Nikmati adrenalin dan pemandangan alam yang menakjubkan
