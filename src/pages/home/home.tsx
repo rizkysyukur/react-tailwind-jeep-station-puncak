@@ -67,6 +67,9 @@ function Home() {
         </div>
       </div>
       <div className="w-full ps-5 pe-5 text-white">
+        <p className=" text-[#F5B754] text-xs tracking-widest font-light mb-3">
+          J S P
+        </p>
         <h1 className="text-2xl font-bold">Paket Petualangan Offroad</h1>
         <h1 className="text-[#F5B754] text-3xl font-bold mb-4">
           Jeep Station Puncak
