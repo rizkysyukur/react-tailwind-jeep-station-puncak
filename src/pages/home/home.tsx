@@ -16,9 +16,10 @@ function Home() {
           <span className="text-[#F5B754] font-bold">Jeep</span> Station Puncak
         </p>
         <p className="relative text-white text-sm mt-2 font-light italic">
-          Rasakan sensasi petualangan seru dengan fun offroad di Jeep Station
-          Puncak, Bogor! Nikmati adrenalin dan pemandangan alam yang menakjubkan
-          bersama keluarga dan teman-teman.
+          Kami hadir disini untuk memberikan anda sensasi petualangan seru
+          dengan fun offroad di Jeep Station Puncak, Bogor! Nikmati adrenalin
+          dan pemandangan alam yang menakjubkan bersama keluarga dan
+          teman-teman.
         </p>
       </div>
       <div className="w-full p-5 -translate-y-20 mb-0">
@@ -31,8 +32,8 @@ function Home() {
           </div>
           <h3 className="ps-5 pt-10 font-bold text-xl">Aman dan Nyaman</h3>
           <p className="pe-20 pt-2 ps-5">
-            Nikmati adrenalin offroad yang aman dan nyaman dengan driver
-            profesional.
+            Memacu adrenalin offroad yang menantang namun tetap aman dan nyaman
+            dengan driver profesional.
           </p>
         </div>
         <div className="bg-[#F5B754] font-light rounded-xl mb-5 relative h-48">
@@ -46,8 +47,8 @@ function Home() {
             Pemandangan Luar Biasa
           </h3>
           <p className="pe-20 pt-2 ps-5">
-            Lihat pemandangan spektakuler Puncak Bogor dengan semua perhatian
-            pada keindahan alam.
+            Menikmati pemandangan spektakuler Puncak Bogor dengan semua
+            perhatian pada keindahan alam.
           </p>
         </div>
         <div className="bg-[#F5B754] font-light rounded-xl mb-5 relative h-48">
@@ -61,7 +62,7 @@ function Home() {
             Petualangan Tanpa Batas
           </h3>
           <p className="pe-20 pt-2 ps-5">
-            Temukan petualangan seru dengan berbagai rintangan dan medan yang
+            Merasakan petualangan seru dengan berbagai rintangan dan medan yang
             menantang.
           </p>
         </div>
@@ -76,8 +77,8 @@ function Home() {
         </h1>
         <p className="text-[#999999]">
           Jelajahi serunya petualangan offroad dengan paket unggulan yang
-          menawarkan pengalaman tak terlupakan di medan offroad yang menantang,
-          eksklusif dari JSP Jeep Station Puncak!
+          menawarkan pengalaman tak terlupakan, eksklusif dari JSP Jeep Station
+          Puncak!
         </p>
       </div>
     </>
