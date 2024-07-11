@@ -32,8 +32,8 @@ function Home() {
           </div>
           <h3 className="ps-5 pt-10 font-bold text-xl">Aman dan Nyaman</h3>
           <p className="pe-20 pt-2 ps-5">
-            Memacu adrenalin offroad yang menantang namun tetap aman dan nyaman
-            dengan driver profesional.
+            Memacu adrenalin offroad namun tetap aman dan nyaman dengan driver
+            profesional.
           </p>
         </div>
         <div className="bg-[#F5B754] font-light rounded-xl mb-5 relative h-48">
